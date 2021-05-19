@@ -1,5 +1,5 @@
-{
-  "Imagenes":
+//{
+  //"Imagenes":
   [
   {
     "id": 1,
@@ -17,5 +17,5 @@
     "imagenAutomovil": "https://images.app.goo.gl/4tUvefdY88RCB7rf6"
   }
     ]
-}
+//}
 
