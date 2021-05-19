@@ -2,17 +2,17 @@
   "Imagenes":
   [
   {
-    "id": 1,
+
     "nombreAutomovil": "Renault shelvy",
     "imagenAutomovil": "https://images.app.goo.gl/39HLcgjvzdgFHBjT6"
   },
   {
-    "id": 2,
+
     "nombreAutomovil": "Mazda",
     "imagenAutomovil": "https://images.app.goo.gl/CzvBCoZYHnxP9jyg9"
   },
   {
-    "id": 3,
+
     "nombreAutomovil": "Toyota",
     "imagenAutomovil": "https://images.app.goo.gl/4tUvefdY88RCB7rf6"
   }
