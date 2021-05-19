@@ -1,14 +1,14 @@
 [
   {
-    "nombreAutomovil": "Renault shelvy",
+    "id": "Renault shelvy",
     "imagenAutomovil": "https://images.app.goo.gl/39HLcgjvzdgFHBjT6"
   },
   {
-    "nombreAutomovil": "Mazda",
+    "id": "Mazda",
     "imagenAutomovil": "https://images.app.goo.gl/CzvBCoZYHnxP9jyg9"
   },
   {
-    "nombreAutomovil": "Toyota",
+    "id": "Toyota",
     "imagenAutomovil": "https://images.app.goo.gl/4tUvefdY88RCB7rf6"
   }
 ]
