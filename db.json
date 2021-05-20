@@ -3,7 +3,7 @@
   [
   {
 
-    "nombreAutomovil": "Renault shelvy",
+    "nombreAutomovil": "Ford shelby",
     "imagenAutomovil": "https://www.diariomotor.com/imagenes/picscache/1440x655c/ford-mustang-shelby-gt500cr-02_1440x655c.jpg"
   },
   {
@@ -22,12 +22,18 @@
     {
     "nombreAutomovil": "Renault Logan",
     "imagenAutomovil": "https://www.revistaautocrash.com/wp-content/uploads/2020/11/RENAULT-Logan-3-e1604937448766.jpg"  
-    }
+    },
+    {
+    "nombreAutomovil": "Toyota Land Cruiser (120) Prado",
+    "imagenAutomovil": "https://360view.hum3d.com/zoom/Toyota/Toyota_Land_Cruiser_Prado_120_5door_2009_1000_0001.jpg"  
+    },
     
     
     
     
-    ],
+    
+    
+    ]
   
 }
 
