@@ -10,8 +10,24 @@
 
     "nombreAutomovil": "Mazda",
     "imagenAutomovil": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/l/RT_V_d012fe15a0bd47fe9bea418a3bec101b.jpg"
-  }
+  },
+    {
+    "nombreAutomovil": "Chevrolet beat",
+    "imagenAutomovil": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_7d64a2d1a9a24ec6b3bb4a5d7f59dd5c.jpg"
+    },
+    {
+    "nombreAutomovil": "Chevrolet Spark GT",
+    "imagenAutomovil": "https://autorentabogota.com/wp-content/uploads/2015/10/3.png"  
+    },
+    {
+    "nombreAutomovil": "Renault Logan",
+    "imagenAutomovil": "https://www.revistaautocrash.com/wp-content/uploads/2020/11/RENAULT-Logan-3-e1604937448766.jpg"  
+    }
     
-    ]
+    
+    
+    
+    ],
+  
 }
 
