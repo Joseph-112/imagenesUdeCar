@@ -43,25 +43,6 @@
     "nombreAutomovil": "Jeep",
     "https://loscoches.com/wp-content/uploads/2019/07/Jeep-wrangler-2020-2.jpg" 
     }
-    ],
-    "Llantas":
-    [
-    {        
-    "nombreLlantas": "Firehawk 900",
-    "imagenLlantas": "https://www.firestone.com.mx/content/dam/bridgestone/consumer/fst/tire-images/firehawk-indy-500/FST_Firehawk_Indy_500.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png"
-    },
-    {
-    "nombreLlantas": "Multihawk",
-    "imagenLlantas": "https://www.firestone.com.mx/content/dam/bridgestone/consumer/fst/latam/mx/llantas/multihawk/multihawk-0029_va.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png"
-    },
-    {
-    "nombreLlantas": "Destination LE3",
-    "imagenLlantas": "https://www.firestone.com.mx/content/dam/bridgestone/consumer/fst/latam/modelo/destination-le3/Fs_DESTINATION_LE3_tilted.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png"
-    }, 
-    {        
-    "nombreLlantas": "Firehawk wide oval",
-    "imagenLlantas": "https://www.firestone.com.mx/content/dam/bridgestone/consumer/fst/latam/modelo/firehawk-wide-oval-as/Firestone-Firehawk-Wide-Oval-AS-tilted.jpg/_jcr_content/renditions/cq5dam.thumbnail.319.319.png"
-    }
     ]
   
 }
