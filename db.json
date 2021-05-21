@@ -33,15 +33,15 @@
     },
     {
     "nombreAutomovil": "Renault Alaskan",
-    "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_00e88f62e6e8453897807d5bdd91c408.jpg" 
+    "imagenAutomovil":"https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_00e88f62e6e8453897807d5bdd91c408.jpg" 
     },
     {
     "nombreAutomovil": "Nissan frontier",
-    "https://www.seguridaddeproductos.cl/wp-content/uploads/2018/08/NP300-2016.jpg" 
+    "imagenAutomovil":"https://www.seguridaddeproductos.cl/wp-content/uploads/2018/08/NP300-2016.jpg" 
     },
     {
     "nombreAutomovil": "Jeep",
-    "https://loscoches.com/wp-content/uploads/2019/07/Jeep-wrangler-2020-2.jpg" 
+    "imagenAutomovil":"https://loscoches.com/wp-content/uploads/2019/07/Jeep-wrangler-2020-2.jpg" 
     }
     ]
   
